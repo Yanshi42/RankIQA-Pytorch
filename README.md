@@ -1,2 +1,2 @@
 # RankIQA-Pytorch
-The pytorch version of RankIQA
+A pytorch version RankIQA
